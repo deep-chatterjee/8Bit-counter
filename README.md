@@ -59,8 +59,8 @@ The design is verified through a self-checking testbench, synthesized to a gate-
 
 **Simulation Output:**
 
-![Simulation Waveform](sim_output/waves.png)
-![Simulation Waveform](GTKWave_Analysis.png)
+![Simulation Waveform](sim_output/Matplotlib_Analysis.png)
+![Simulation Waveform](sim_output/GTKWave_Analysis.png)
 
 The waveform validates all control paths in sequence:
 
