@@ -1,0 +1,11 @@
+# Simulation outputs
+*.vvp
+*.vcd
+*.lxt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
